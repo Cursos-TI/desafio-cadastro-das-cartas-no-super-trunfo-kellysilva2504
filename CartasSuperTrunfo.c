@@ -69,4 +69,5 @@ printf("Quantidade de pontos turísticos: %i\n", pontosTuristicos);
 
 
     return 0;
+    
 }
